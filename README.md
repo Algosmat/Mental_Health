@@ -19,3 +19,6 @@ References
 https://towardsdatascience.com/you-are-what-you-tweet-7e23fb84f4ed
 https://www.jmir.org/2019/6/e12554/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6111060/
+
+Other Inspirations
+https://www.manipalprolearn.com/blog/5-types-machine-learning-projects-you-should-have-your-portfolio
